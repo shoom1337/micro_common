@@ -1,0 +1,16 @@
+{
+    "name": "shoom1337/micro_common",
+    "description": "This is a package for the Microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shoom1337",
+            "email": "kirillpavlik@mail.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "laravel/framework": "^8.12"
+    }
+}
